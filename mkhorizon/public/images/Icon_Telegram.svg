@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
-  <g id="Telegram" transform="translate(-861 -208)">
-    <circle id="Ellipse_3" data-name="Ellipse 3" cx="22.5" cy="22.5" r="22.5" transform="translate(861 208)" fill="#a7a7a7"/>
-    <path id="Path_4" data-name="Path 4" d="M4868.758,227.225c-.56-.672-9.872,7.577-12.616,7.6s-7.054-.821-6.662-2.65,23.57-11.626,25.417-10.04-1.176,20.005-3.6,21-10.64-4.713-10.714-6.834S4869.318,227.9,4868.758,227.225Z" transform="translate(-3980.352 -0.565)" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 27 27">
+  <g id="Telegram" transform="translate(-0.353 0.084)">
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="13.5" cy="13.5" r="13.5" transform="translate(0.353 -0.084)" fill="#a7a7a7"/>
+    <path id="Path_4" data-name="Path 4" d="M4860.933,225.089c-.333-.4-5.87,4.505-7.5,4.516s-4.194-.488-3.961-1.576,14.015-6.913,15.114-5.97-.7,11.9-2.14,12.486-6.327-2.8-6.371-4.064S4861.266,225.489,4860.933,225.089Z" transform="translate(-4844.306 -213.835)" fill="#fff"/>
   </g>
 </svg>

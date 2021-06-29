@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
-  <g id="IH" transform="translate(-875 -211)">
-    <g id="Rectangle_8" data-name="Rectangle 8" transform="translate(875 211)" fill="#a7a7a7" stroke="#a7a7a7" stroke-width="4">
-      <rect width="45" height="45" stroke="none"/>
-      <rect x="2" y="2" width="41" height="41" fill="none"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 27 27">
+  <g id="IH" transform="translate(0.312 0.084)">
+    <g id="Rectangle_8" data-name="Rectangle 8" transform="translate(-0.312 -0.084)" fill="#a7a7a7" stroke="#a7a7a7" stroke-width="4">
+      <rect width="27" height="27" stroke="none"/>
+      <rect x="2" y="2" width="23" height="23" fill="none"/>
     </g>
-    <g id="IH-2" data-name="IH">
-      <path id="I" d="M4865.674,224.276h3.434l-.019,18.419h-3.471Z" transform="translate(-3980)" fill="#fff" stroke="#fff" stroke-width="1"/>
-      <path id="H" d="M4874.688,224.257h3.453v7.633h7.8v-7.633h3.359l.037,18.456h-3.471v-7.539h-7.8v7.539h-3.4Z" transform="translate(-3980)" fill="#fff" stroke="#fff" stroke-width="1"/>
+    <g id="IH-2" data-name="IH" transform="translate(6.331 8.041)">
+      <path id="I" d="M4865.651,224.276h2.042l-.011,10.952h-2.064Z" transform="translate(-4865.618 -224.265)" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="H" d="M4874.68,224.257h2.053V228.8h4.638v-4.538h2l.022,10.974h-2.064v-4.483h-4.638v4.483h-2.02Z" transform="translate(-4869.287 -224.257)" fill="#fff" stroke="#fff" stroke-width="1"/>
     </g>
   </g>
 </svg>
