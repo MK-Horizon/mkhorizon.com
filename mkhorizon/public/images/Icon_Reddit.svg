@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+  <g id="Reddit" transform="translate(-1107 -251)">
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="22.5" cy="22.5" r="22.5" transform="translate(1107 251)" fill="#a7a7a7"/>
+    <path id="Path_8" data-name="Path 8" d="M5109.983,264.089c-.422.819-3.776.119-6.443.951a9.286,9.286,0,0,0-4.225,2.377c-.739.66-2.772-3.063-5.756-.132s1.1,5.18,1.241,5.651-.924,4.067,1.9,7.288,5.287,5.155,13.045,5.36,10.75-2.7,13.256-5.545.977-7.341,1.584-7.341,4.225-2.06,1.162-5.281-4.357,0-5.229,0-2.291-1.82-4.647-2.377a43.66,43.66,0,0,0-4.938-.555c-.343-.158,1.479-6.364,2.245-6.654s5.783,1.135,5.783,1.135a2.314,2.314,0,0,0,2.3,2.471c2.456.158,2.483-1.133,2.563-2.031a2.15,2.15,0,0,0-2.25-2.469c-1.953-.047-1.8,1.025-2.432,1.157s-5.651-1.532-6.628-1.373S5110.406,263.271,5109.983,264.089Z" transform="translate(-3980)" fill="#fff" stroke="#fff" stroke-width="1"/>
+    <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(1121.8 270.5)" fill="#a7a7a7" stroke="#a7a7a7" stroke-width="1">
+      <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+      <circle cx="2.5" cy="2.5" r="2" fill="none"/>
+    </g>
+    <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(1132.5 270.5)" fill="#a7a7a7" stroke="#a7a7a7" stroke-width="1">
+      <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+      <circle cx="2.5" cy="2.5" r="2" fill="none"/>
+    </g>
+    <path id="Path_9" data-name="Path 9" d="M5104.571,279.459s.569,1.523,5.281,1.564,4.977-1.564,4.977-1.564" transform="translate(-3980)" fill="none" stroke="#a7a7a7" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>
