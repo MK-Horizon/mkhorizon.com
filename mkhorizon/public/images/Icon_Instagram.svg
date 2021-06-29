@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="46" height="45" viewBox="0 0 46 45">
-  <g id="IG" transform="translate(-1523 -45)">
-    <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(1523 45)" fill="none" stroke="#a7a7a7" stroke-width="4">
-      <rect width="46" height="45" rx="14" stroke="none"/>
-      <rect x="2" y="2" width="42" height="41" rx="12" fill="none"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 27 27">
+  <g id="IG" transform="translate(0.117 0.084)">
+    <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(-0.117 -0.084)" fill="none" stroke="#a7a7a7" stroke-width="2">
+      <rect width="27" height="27" rx="9" stroke="none"/>
+      <rect x="1" y="1" width="25" height="25" rx="8" fill="none"/>
     </g>
-    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(1535 57)" fill="none" stroke="#a7a7a7" stroke-width="4">
-      <circle cx="11" cy="11" r="11" stroke="none"/>
-      <circle cx="11" cy="11" r="9" fill="none"/>
+    <g id="Path_10" data-name="Path 10" transform="translate(6.883 6.916)" fill="none">
+      <path d="M6.5,0A6.5,6.5,0,1,1,0,6.5,6.5,6.5,0,0,1,6.5,0Z" stroke="none"/>
+      <path d="M 6.5 2 C 4.01869010925293 2 2 4.01869010925293 2 6.5 C 2 8.98130989074707 4.01869010925293 11 6.5 11 C 8.98130989074707 11 11 8.98130989074707 11 6.5 C 11 4.01869010925293 8.98130989074707 2 6.5 2 M 6.5 0 C 10.0898494720459 0 13 2.910149574279785 13 6.5 C 13 10.0898494720459 10.0898494720459 13 6.5 13 C 2.910149574279785 13 0 10.0898494720459 0 6.5 C 0 2.910149574279785 2.910149574279785 0 6.5 0 Z" stroke="none" fill="#a7a7a7"/>
     </g>
-    <circle id="Ellipse_2" data-name="Ellipse 2" cx="3.5" cy="3.5" r="3.5" transform="translate(1555 53)" fill="#a7a7a7"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="1.5" cy="1.5" r="1.5" transform="translate(18.883 4.916)" fill="#a7a7a7"/>
   </g>
 </svg>
