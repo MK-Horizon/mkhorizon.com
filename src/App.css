@@ -1,0 +1,47 @@
+.crypto-card{
+    min-width: 250px;
+    border-radius: 5px;
+}
+.crypto-card .crypto-image{
+    width:45px;
+}
+.select-timeperiod{
+    width: 200px !important;
+    margin-top: 20px !important;
+}
+.home-heading-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+}
+.show-more{
+    margin-top: 0px !important;
+}
+.exchange-image{
+    margin: 0px 10px !important;
+}
+.search-crypto{
+    margin: 20px auto 30px auto;
+    width: 250px;
+}
+.crypto-card-container{
+    min-height: 65vh !important;
+}
+.list-group-flush {
+    border-top: none;
+    border-bottom: none;
+    border: none;
+    border-left: none;
+    border-right: none;
+}
+.list-group-item {
+    border: none;
+
+}
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #e9ecff;
+    border-radius: .3rem;
+  }
