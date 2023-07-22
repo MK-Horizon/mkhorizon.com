@@ -1,4 +1,1 @@
-mkhorizon.com 
-
-
-A React cryptocurrency news web application
+mkhorizon.com - cryptocurrency news web application
